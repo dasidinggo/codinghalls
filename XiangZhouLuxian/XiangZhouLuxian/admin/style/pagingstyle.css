@@ -1,0 +1,12 @@
+/*分页样式*/
+.paginator { font: 12px Arial, Helvetica, sans-serif;1padding:10px 20px 10px 0; margin: 0px;}
+.paginator2 { font: 12px Arial, Helvetica, sans-serif;1padding:10px 20px 10px 0; margin: 0px; text-align:right; line-height:25px;}
+.paginator a {color:#555;cursor:pointer;text-decoration:none;}
+/*.paginator a:visited {padding: 1px 6px; border: solid 1px #ddd; background: #fff; text-decoration: none;}*/
+.paginator .cpb {color:#ff0000; text-decoration:none;}
+.paginator a:hover {color:#ff0000; text-decoration:none;}
+.paginator a,.paginator a:visited,.paginator .cpb,.paginator a:hover  
+{float:left;height:16px;line-height:16px;min-width:10px;_width:10px;margin-right:5px;text-align:center;
+ white-space:nowrap;font-size:12px;font-family:Arial,SimSun;padding:4px 5px;}
+ .embox { font-family:"宋体"; font-size:12px; line-height:20px;}
+ .embox td { font-family:"宋体"}

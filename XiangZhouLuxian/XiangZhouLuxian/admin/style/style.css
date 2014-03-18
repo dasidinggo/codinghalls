@@ -1,0 +1,50 @@
+/* CSS Document */
+*{ margin:0; padding:0;list-style:none; text-decoration:none; color:#555555; font-size:13px;}
+.loginform { width:518px; height:235px; background:url(../images/loginbg.jpg) no-repeat; margin:0 auto; margin-top:200px; line-height:40px; padding-top:89px;}
+a:hover { color:#ff3300;} 
+.txt { height:25px; background-color:transparent; width:190px; outline:none;}
+.lgtb { margin-left:230px;}
+.lgtb tr { height:48px;}
+.lgtb td { }
+.btnlogin { background:url(../images/loginbtn.png) no-repeat; width:75px; height:28px; display:inline-block;}
+.btncancel { background:url(../images/cancelbtn.png) no-repeat; width:75px; height:28px; display:inline-block;}
+
+.top { height:93px;}
+.top img { margin-top:30px; margin-left:50px;}
+.navi { line-height:28px; text-align:right; padding-right:40px;}
+.content { height:700px; background:#fff; width:100%;}
+.left { width:215px; border-right:solid 1px #333; background:#f2f2f2; height:700px; float:left;}
+.left td {width:215px; text-align:center;}
+.right { float:left; width:900px; }
+.menu {background:url(../images/menubg.png) center center no-repeat;height:35px; line-height:35px;  } 
+.sonM { height:28px; line-height:28px;}
+.sonpage { padding:20px; background:#fff;}
+.introtb td { padding:5px;}
+.bottom{ background:url(../images/bottombg.png) repeat-x; border-top:solid 2px #666; height:31px; line-height:31px;}
+
+.aborder { border:solid 1px #555;}
+.tiltxt { height:25px; line-height:25px; width:450px;color:#930000; padding-left:5px;}
+.ntxt { height:20px; line-height:20px; width:200px; padding-left:5px;}
+.contxt { height:100px; width:450px;}
+.hdiv { display:none;}
+.htbar { padding-bottom:10px;}
+#bigimg{position:absolute; top:30px; left:70px; background:#fff;}
+#bigimg td { padding:0;}
+#bigshow { width:400px; 1height:400px; }
+#leftcon { position:absolute; top:30px; left:70px; background:#fff;}
+
+
+.adimg { width:80px; height:80px;}
+#editarea { border:solid 2px #cccccc; position:absolute;left:100px; top:50px; 1width:400px; background:#fff;}
+#editarea td { 1text-align:center;}
+.edtable {}
+.ltd { height:40px; line-height:40px; width:80px; text-align:right; padding-right:10px;}
+.rtd { height:40px; line-height:40px; text-align:left;}
+.headtr { background:url(../images/headtrbg.png) repeat-x; text-align:center; height:26px; line-height:26px; border-bottom:solid 1px #cccccc;}
+.headtd {height:26; line-height:26px; padding:0;border-bottom:solid 1px #cccccc;}
+.tblist { width:400px; border-left:solid 1px #cccccc; border-top:solid 1px #cccccc;}
+.tblist td { border-bottom:solid 1px #cccccc; border-right:solid 1px #cccccc; height:26; line-height:26px; padding:0; text-align:center;}
+.txttil { height:25px; line-height:25px;}
+
+.btnblock { display:inline-block; padding:0 5px; line-height:20px; background:#c4c4c4; color:#555; border:solid 1px #000;}
+.btnblock:hover { background:#fff; border:solid 1px #000; color:#ff0000;}

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XiangZhouLuxian", "XiangZhouLuxian\XiangZhouLuxian.csproj", "{BFBD5350-2FEB-489B-A7C9-163451FAC369}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{6E4DB90C-F957-41B2-9E20-57E1A882DCA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{E28E8696-E266-42DE-B4F2-96BCC471A0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFBD5350-2FEB-489B-A7C9-163451FAC369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBD5350-2FEB-489B-A7C9-163451FAC369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBD5350-2FEB-489B-A7C9-163451FAC369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBD5350-2FEB-489B-A7C9-163451FAC369}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E4DB90C-F957-41B2-9E20-57E1A882DCA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E4DB90C-F957-41B2-9E20-57E1A882DCA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E4DB90C-F957-41B2-9E20-57E1A882DCA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E4DB90C-F957-41B2-9E20-57E1A882DCA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E28E8696-E266-42DE-B4F2-96BCC471A0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E28E8696-E266-42DE-B4F2-96BCC471A0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E28E8696-E266-42DE-B4F2-96BCC471A0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E28E8696-E266-42DE-B4F2-96BCC471A0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
